@@ -1,0 +1,2 @@
+# VHDL_Digital_Clock
+大一的时候选修课VHDL数字时钟的实现代码
